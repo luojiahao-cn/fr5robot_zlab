@@ -1,0 +1,2 @@
+frcobot_ros/fr5v6_moveit_config:frcobot_ros/frcobot_description:frcobot_ros/frcobot_hw:frcobot_ros/ros_control_boilerplate
+-DCATKIN_DEVEL_PREFIX=/home/lawkaho/workshop/frcobot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/lawkaho/workshop/frcobot_ws/install -G Unix Makefiles
